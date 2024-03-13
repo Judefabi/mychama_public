@@ -1,4 +1,3 @@
-````markdown
 <p align="center">
   <a href="https://github.com/ShaanCoding/ReadME-Generator">
     <!-- <img src="images/logo.png" alt="Logo" width="80" height="80"> -->
@@ -123,4 +122,4 @@ Distributed under the MPL-2.0 License. See [LICENSE](https://github.com/Judefabi
 - [ShaanCoding](https://github.com/ShaanCoding/)
 - [Othneil Drew](https://github.com/othneildrew/Best-README-Template)
 - [ImgShields](https://shields.io/)
-````
+
